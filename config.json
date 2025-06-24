@@ -198,6 +198,64 @@
         },
         "zPos": 0.65,
         "name": "Facial Hair"
+      },
+      "2": {
+        "fov": 30,
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 150
+        },
+        "zPos": 0.65,
+        "name": "Eyebrows"
+      },
+      "4": {
+        "fov": 30,
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 150
+        },
+        "zPos": 0.65,
+        "name": "Makeup"
+      },
+      "10": {
+        "fov": 30,
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 150
+        },
+        "zPos": 0.30,
+        "name": "Chest Hair"
+      },
+      "11": {
+        "fov": 5,
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 150
+        },
+        "zPos": 0.70,
+        "name": "Eye Color"
+      },
+      "8": {
+        "fov": 30,
+        "rotation": { "x": 0, "y": 0, "z": 150 },
+        "zPos": 0.65,
+        "name": "Lipstick"
+      },
+      "5": {
+        "fov": 30,
+        "rotation": { "x": 0, "y": 0, "z": 150 },
+        "zPos": 0.65,
+        "name": "Blush"
+      },
+      "22": {
+        "fov": 30,
+        "rotation": { "x": 0, "y": 0, "z": 150 },
+        "zPos": 0.65,
+        "name": "Beard"
       }
     }
   },

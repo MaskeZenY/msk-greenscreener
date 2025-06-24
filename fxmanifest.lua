@@ -12,10 +12,14 @@ ui_page 'html/index.html'
 
 files {
     'config.json',
+    'vehicles.json',
     'html/*'
 }
 
-client_script 'client.js'
+client_scripts {
+    'client.js',
+    'client.lua'
+}
 
 server_script 'server.js'
 

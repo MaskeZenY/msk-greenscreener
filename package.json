@@ -13,6 +13,7 @@
   "dependencies": {
     "@citizenfx/client": "^2.0.6878-1",
     "@citizenfx/server": "^2.0.6878-1",
+    "@overextended/oxmysql": "^1.4.2",
     "canvas": "^2.11.2",
     "image-js": "^0.35.5"
   },
